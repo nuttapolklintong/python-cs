@@ -58,14 +58,6 @@ class Studentfrom(QMainWindow):
 
         QMessageBox.information(self, "บันทึกข้อมูลสำเร็จ", "บันทึกเรียบร้อย")
 
-        #     QMessageBox.information(
-        #     self ,
-        #     "ข้อมูลนักศึกษา" ,
-        #     f"รหัสนักศึกษา : {student_ID}\n"
-        #     f"ชื่อ : {first_name}\n"
-        #     f"นามสกุล : {last_name}\n"
-        #     f"สาขาวิชา : {major}\n"
-        # )
 
 
 
